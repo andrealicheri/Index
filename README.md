@@ -1,2 +1,8 @@
-# Index
-Index for all my repositories
+# Repositories index
+
+This is an index for all my repositories because the default repo section sucks and it's disorganized
+
+- [GentleWidow](https://github.com/andrealicheri/gentlewidow) - **CyberSec** - From google.com link to arbitrary JavaScript
+- [DeadlyCheese](https://github.com/andrealicheri/deadlycheese) - **CyberSec** - Abuse a client for high-volume storage
+- [Math](https://github.com/andrealicheri/math) - **Education** - Math sperimentation with Python
+- [School Monorepo](https://github.com/andrealicheri/School-Monorepo) -- **Education** -- Monolithic repository for all my school projects
